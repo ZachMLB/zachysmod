@@ -1,0 +1,32 @@
+{
+  "elpresasound_break": {
+    "subtitle": "sounds.zachysmod.elpresasound_break",
+    "sounds": [
+      "zachysmod:elpresasound"
+    ]
+  },
+  "elpresasound_fall": {
+    "subtitle": "sounds.zachysmod.elpresasound_fall",
+    "sounds": [
+      "zachysmod:elpresasound"
+    ]
+  },
+  "elpresasound_hit": {
+    "subtitle": "sounds.zachysmod.elpresasound_hit",
+    "sounds": [
+      "zachysmod:elpresasound"
+    ]
+  },
+  "elpresasound_place": {
+    "subtitle": "sounds.zachysmod.elpresasound_place",
+    "sounds": [
+      "zachysmod:elpresasound"
+    ]
+  },
+  "elpresasound_step": {
+    "subtitle": "sounds.zachysmod.elpresasound_step",
+    "sounds": [
+      "zachysmod:elpresasound"
+    ]
+  }
+}
