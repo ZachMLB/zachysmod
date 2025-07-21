@@ -1,16 +1,18 @@
 {
-  "item.zachysmod.elpresaniteignot": "ElPresaNite Ignot",
+  "creativetab.zachysmod_tab": "Zachy's Mod",
 
-  "block.zachysmod.elpresablock": "ElPresaBlock",
+  "item.zachysmod.elpresaniteingot": "ElPresanite Ignot",
+
+  "block.zachysmod.elpresablock": "ElPresablock",
   "block.zachysmod.elpresaniteblock": "ElPresanite Block",
-  "block.zachysmod.elpresaniteblockcompressed": "ElPresaNite Block Compressed",
-  "block.zachysmod.elpresaniteblockcompressedx2": "ElPresaNite Block Compressed x2",
-  "block.zachysmod.elpresaniteblockcompressedx3": "ElPresaNite Block Compressed x3",
-  "block.zachysmod.elpresaniteblockcompressedx4": "ElPresaNite Block Compressed x4",
-  "block.zachysmod.elpresaniteblockcompressedx5": "ElPresaNite Block Compressed x5",
-  "block.zachysmod.elpresaniteblockcompressedx6": "ElPresaNite Block Compressed x6",
-  "block.zachysmod.elpresaniteblockcompressedx7": "ElPresaNite Block Compressed x7",
-  "block.zachysmod.elpresaniteblockcompressedx8": "ElPresaNite Block Compressed x8",
-  "block.zachysmod.elpresaniteblockcompressedx9": "ElPresaNite Block Compressed x9",
+  "block.zachysmod.elpresaniteblockcompressed": "ElPresanite Block Compressed",
+  "block.zachysmod.elpresaniteblockcompressedx2": "ElPresanite Block Compressed x2",
+  "block.zachysmod.elpresaniteblockcompressedx3": "ElPresanite Block Compressed x3",
+  "block.zachysmod.elpresaniteblockcompressedx4": "ElPresanite Block Compressed x4",
+  "block.zachysmod.elpresaniteblockcompressedx5": "ElPresanite Block Compressed x5",
+  "block.zachysmod.elpresaniteblockcompressedx6": "ElPresanite Block Compressed x6",
+  "block.zachysmod.elpresaniteblockcompressedx7": "ElPresanite Block Compressed x7",
+  "block.zachysmod.elpresaniteblockcompressedx8": "ElPresanite Block Compressed x8",
+  "block.zachysmod.elpresaniteblockcompressedx9": "ElPresanite Block Compressed x9",
   "block.zachysmod.goldencarrotblock": "Golden Carrot Block"
 }

@@ -8,7 +8,6 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.state.BlockBehaviour;
-import net.minecraftforge.client.model.obj.ObjModel;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -27,34 +26,34 @@ public class ModBlock {
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.DIAMOND_BLOCK).sound(ModSound.ELPRESASOUNDS)));
 
     public static final RegistryObject<Block> ELPRESANITEBLOCK = registerBlock("elpresaniteblock",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).sound(ModSound.ELPRESASOUNDS)));
 
     public static final RegistryObject<Block> ELPRESANITEBLOCKCOMPRESSED = registerBlock("elpresaniteblockcompressed",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).sound(ModSound.ELPRESASOUNDS)));
 
     public static final RegistryObject<Block> ELPRESANITEBLOCKCOMPRESSEDX2 = registerBlock("elpresaniteblockcompressedx2",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).sound(ModSound.ELPRESASOUNDS)));
 
     public static final RegistryObject<Block> ELPRESANITEBLOCKCOMPRESSEDX3 = registerBlock("elpresaniteblockcompressedx3",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).sound(ModSound.ELPRESASOUNDS)));
 
     public static final RegistryObject<Block> ELPRESANITEBLOCKCOMPRESSEDX4 = registerBlock("elpresaniteblockcompressedx4",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).sound(ModSound.ELPRESASOUNDS)));
 
     public static final RegistryObject<Block> ELPRESANITEBLOCKCOMPRESSEDX5 = registerBlock("elpresaniteblockcompressedx5",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).sound(ModSound.ELPRESASOUNDS)));
 
     public static final RegistryObject<Block> ELPRESANITEBLOCKCOMPRESSEDX6 = registerBlock("elpresaniteblockcompressedx6",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).sound(ModSound.ELPRESASOUNDS)));
 
     public static final RegistryObject<Block> ELPRESANITEBLOCKCOMPRESSEDX7 = registerBlock("elpresaniteblockcompressedx7",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).sound(ModSound.ELPRESASOUNDS)));
 
     public static final RegistryObject<Block> ELPRESANITEBLOCKCOMPRESSEDX8 = registerBlock("elpresaniteblockcompressedx8",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).sound(ModSound.ELPRESASOUNDS)));
 
     public static final RegistryObject<Block> ELPRESANITEBLOCKCOMPRESSEDX9 = registerBlock("elpresaniteblockcompressedx9",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).sound(ModSound.ELPRESASOUNDS)));
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

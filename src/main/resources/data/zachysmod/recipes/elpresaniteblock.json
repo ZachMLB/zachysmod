@@ -3,18 +3,15 @@
   "category": "misc",
   "pattern": [
     "###",
-    "#B#",
+    "###",
     "###"
   ],
   "key": {
     "#": {
-      "item": "minecraft:diamond_block"
-    },
-    "B": {
-      "item": "minecraft:diamond"
+      "item": "zachysmod:elpresaniteingot"
     }
   },
   "result": {
-    "item" : "zachysmod:elpresablock"
+    "item" : "zachysmod:elpresaniteblock"
   }
 }
